@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = Ramanbaghel13@gmail.com
+	name = Ramanbaghel13@gmail.com
